@@ -1,0 +1,15 @@
+.button {
+    width: 280px;
+    height: 60px;
+    padding: 20px;
+
+    cursor: pointer;
+    background-color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #666666;
+
+    border-radius: 8px;
+    border-style: none;
+    box-shadow: 0 0 6px 6px #0000000d;
+}
